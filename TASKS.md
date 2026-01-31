@@ -18,7 +18,7 @@ perform tests on tic tac toe game
    - Fill all 9 cells with no winner
    - Expected: Game ends in draw
 
-5. **Test Invalid Move**
+5. **Test an Invalid Move**
    - Try placing a mark on an occupied cell
    - Expected: Move rejected, prompt for new input
 
